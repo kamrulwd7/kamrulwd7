@@ -1,8 +1,7 @@
-- 👋 Hi, I’m Kamrul Hasan.
-- 👀 I’m interested in learning technology.
-- 🌱 I’m currently learning web design and development.
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+ Hi, I’m Kamrul Hasan.
+ I’m interested in learning technology.
+ I’m currently learning web design and development.
+
 
 <!---
 kamrulwd7/kamrulwd7 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
