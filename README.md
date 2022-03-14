@@ -1,6 +1,6 @@
  Hi, I’m Kamrul Hasan.
- I’m interested in learning technology.
- I’m currently learning web design and development.
+ I love to learn technology.
+-- The only thing we have to fear is fear itself. --
 
 
 <!---
